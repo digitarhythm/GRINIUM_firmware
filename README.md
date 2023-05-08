@@ -14,4 +14,10 @@ https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 - grinium.json
 
 ## MXソケットとロータリーエンコーダーの排他利用
+- ロータリーエンコーダーをはんだ付けする場合  
+<img src="image/rotary_encoder.jpg" width="25%" />
 
+----
+
+- MXソケットをハンダ付けし、MX互換キースイッチを使う場合  
+<img src="image/mx_socket.jpg" width="25%" />
