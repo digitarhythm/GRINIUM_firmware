@@ -1,4 +1,6 @@
-# GRINIUM_firmware
+# TReK GT40 GRINIUM ビルドガイド補足
+
+## GRINIUM_firmware
 - TReK GT40Plus GRINIUM firmware
 
 - Pro Micro Web Updaterなどを使って書き込むファームウェアです。  
@@ -10,3 +12,6 @@ https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ## Remap用JSONファイル
 - grinium.json
+
+## MXソケットとロータリーエンコーダーの排他利用
+
